@@ -1,6 +1,6 @@
 # WeatherApp 🌦️
 
-Bem-vindo ao **WeatherApp**, um aplicativo de clima construído em Swift, inspirado no vídeo [Weather App UI - Swift (YouTube)](https://www.youtube.com/watch?v=X2W9MPjrIbk). Este projeto utiliza a API OpenWeatherMap para fornecer informações meteorológicas em tempo real com uma interface amigável e moderna.
+Bem-vindo ao **WeatherApp**, um aplicativo de clima construído em Swift. Este projeto utiliza a API OpenWeatherMap para fornecer informações meteorológicas em tempo real com uma interface amigável e moderna.
 
 ---
 
