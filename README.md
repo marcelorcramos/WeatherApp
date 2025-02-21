@@ -12,14 +12,7 @@ Bem-vindo ao **WeatherApp**, um aplicativo de clima construído em Swift. Este p
 - Interface atraente e responsiva.
 - Suporte a múltiplas unidades de medida (Celsius e Fahrenheit).
 
----
 
-## 📸 Capturas de Tela
-
-![IMG_7169](https://github.com/user-attachments/assets/2caf313d-5230-489c-8ced-933f810daa5e)
-![IMG_7170](https://github.com/user-attachments/assets/9344e6f0-7208-4a4e-9160-f69b1b5146ec)
-![IMG_7172](https://github.com/user-attachments/assets/890a6157-a652-4d77-9282-9ab768aa8281)
-![IMG_7173](https://github.com/user-attachments/assets/d8f49af9-8089-456c-8e2c-11c89679d64c)
 
 ---
 
@@ -46,3 +39,13 @@ Bem-vindo ao **WeatherApp**, um aplicativo de clima construído em Swift. Este p
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seuusuario/WeatherApp.git
+
+---
+
+## 📸 Capturas de Tela
+
+![IMG_7169](https://github.com/user-attachments/assets/2caf313d-5230-489c-8ced-933f810daa5e)
+![IMG_7170](https://github.com/user-attachments/assets/9344e6f0-7208-4a4e-9160-f69b1b5146ec)
+![IMG_7172](https://github.com/user-attachments/assets/890a6157-a652-4d77-9282-9ab768aa8281)
+![IMG_7173](https://github.com/user-attachments/assets/d8f49af9-8089-456c-8e2c-11c89679d64c)
+
