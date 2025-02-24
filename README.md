@@ -24,23 +24,7 @@ Bem-vindo ao **WeatherApp**, um aplicativo de clima construído em Swift. Este p
 - **URLSession**: Requisições à API.
 - **OpenWeatherMap API**: Para obter dados meteorológicos.
 
----
 
-## 🧰 Pré-requisitos
-
-- **Xcode** 14 ou superior.
-- Simulador ou dispositivo rodando iOS 15 ou superior.
-- Uma chave de API válida do [OpenWeatherMap](https://openweathermap.org/).
-
----
-
-## 📦 Como Usar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seuusuario/WeatherApp.git
-
----
 
 ## 📸 Capturas de Tela
 
